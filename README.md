@@ -4,7 +4,8 @@
 Multi-Exchange Rate Systems and Import Misallocation: Evidence from Iran
 
 # Mobina Shojaei
-
+# M.S. in Economics
+# Sharif University of technology
 2025/10/07
 
  Step 1: Import customs data from Excel into Stata
