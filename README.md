@@ -25,7 +25,7 @@ Multi-Exchange Rate Systems and Import Misallocation: Evidence from Iran
    - However, the main analysis is conducted based on HS codes, not BEC categories.
 
  Step 6: Calculate the total value (in USD and rial) and weight of imports by exchange rate type: 
- - preferential, NIMA, and personal rate
+ - preferential, NIMA, NIMA-negotiated, and personal rate
 
  Step 7: Calculate the share of each exchange rate type in total imports
 
@@ -35,12 +35,11 @@ Multi-Exchange Rate Systems and Import Misallocation: Evidence from Iran
    - Compare the trend of prices and exchange rates (Preferential vs market rate)
    - For similar goods within HS3, compare the trends in their import shares and the exchange rate gap
 
- Step 10: Estimate regressions to assess the impact of the exchange rate gap on real dollar values
-  - Include lagged values of the exchange rate gap
+ Step 10: Estimate regressions to assess the impact of the exchange rate gap on real dollar values (USD).
   - Run regressions separately for Preferential and NIMA gaps
   - Perform separate regressions for intermediate, capital, and consumer goods
 
- Step 11: Group data by HS3 codes
+ Step 11: Group the data by HS1 codes
   - Run the Generalized Synthetic Control Model for each group
   - Compute group-specific weights
   - Calculate the weighted average of the estimated coefficients
