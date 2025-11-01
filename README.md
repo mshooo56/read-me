@@ -9,6 +9,7 @@ Multi-Exchange Rate Systems and Import Misallocation: Evidence from Iran
 2025/10/07
 
  Step 1: Import customs data from Excel into Stata
+ 
     - If a good is imported through multiple customs points or is registered multiple times, calculate the total to avoid duplication.
     - If a good is not imported in a given month and thus missing from customs data, assign a value of zero.
 
